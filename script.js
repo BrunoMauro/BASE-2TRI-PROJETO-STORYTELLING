@@ -26,13 +26,13 @@ const perguntas = [
                 afirmacao: "estudar mais"
             },
             {
-                texto: "Se não ",
-                afirmacao: ""
+                texto: "Se não, voce pode ter chances de mudar, para um futuro melhor ",
+                afirmacao: "melhore para o futuro"
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Voce tem uma certa facilidade com as maõs/braços",
         alternativas: [
             {
                 texto: "",
