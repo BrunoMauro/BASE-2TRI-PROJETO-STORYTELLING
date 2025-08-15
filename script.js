@@ -6,27 +6,27 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
+        enunciado: "voce entende muito de tecnologia se voce tem uma certa facilidade."
         alternativas: [
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
-            },
+                texto: "Se sim, ja e um progresso, parabens pelo longo processo.",
+                afirmacao: "Voce e gente boa para os chefes"
+            }
             {
-                texto: "alternativa letra B deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
+                texto: "Se não , tera que estudar mais , e melhorar para o futuro."
+                afirmacao: "Melhorar e avançar"
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Voce e uma pessoa que se dedica a tecnologia no seu dia a dia",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "Se sim da pra voce fazer algo para mudar seu futuro, como programação",
+                afirmacao: "estudar mais"
             },
             {
-                texto: "",
+                texto: "Se não ",
                 afirmacao: ""
             }
         ]
